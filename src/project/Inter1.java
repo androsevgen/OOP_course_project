@@ -5,7 +5,5 @@ interface Inter1 {
 }
 
 interface Inter2 {
-}
-
-interface Inter3 {
+    public void chooseaParametric();
 }

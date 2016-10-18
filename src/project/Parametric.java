@@ -1,9 +1,9 @@
 package project;
 
 public class Parametric {
-    private int cpu;
-    private int rum;
-    private String manufacturer;
-    private String type;
-    private double price;
+    protected int cpu;
+    protected int rum;
+    protected String manufacturer;
+    protected String type;
+    protected double price;
 }
